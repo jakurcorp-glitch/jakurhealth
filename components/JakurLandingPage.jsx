@@ -1,3 +1,4 @@
+"use client";
 import React, { useState } from "react";
 import { Leaf, FlaskConical, Droplet, Sparkles, ArrowRight } from "lucide-react";
 
